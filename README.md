@@ -1,1 +1,1 @@
-# https://sms-spam-detector.azurewebsites.net
+# https://spam-msg-classification.herokuapp.com/
